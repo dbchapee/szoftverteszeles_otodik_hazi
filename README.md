@@ -1,0 +1,1 @@
+# szoftverteszeles_otodik_hazi
