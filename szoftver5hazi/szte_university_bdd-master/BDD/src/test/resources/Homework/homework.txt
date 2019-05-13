@@ -1,0 +1,12 @@
+HF
+
+1.	Regisztráció:
+	Töltst ki minden kötelező mezőt(*) a regisztráláshoz és ellenőrizd le hogy a megadott adatok vannak e benne. Nem kell submitelni !!!
+
+
+2.	New Shopping:
+	Állíts össze új shopping cart-ot, majd ellenőrizd hogy a Total Price jó értéket ad-e vissza.
+
+
+
+A megoldásokat ZIP elve küld el: Norbert_Fabian@epam.com
